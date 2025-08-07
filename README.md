@@ -89,13 +89,7 @@ Open the `index.html` file in any modern browser.
 - ✅ Microsoft Edge
 - ✅ Android Browser
 
----
 
-## 📷 Screenshots
-
-> (You can add screenshots here by dragging image files into the GitHub repo or using a URL.)
-
----
 
 ## 👨‍💻 Author
 
